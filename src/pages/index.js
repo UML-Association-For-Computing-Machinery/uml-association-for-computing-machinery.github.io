@@ -25,6 +25,12 @@ function HomepageHeader() {
           </Link>
           <div class={styles.divider}></div>
           <Link
+            className="engage-button button button--secondary button--lg"
+            to="https://umasslowellclubs.campuslabs.com/engage/organization/acm">
+            Engage
+          </Link>
+          <div class={styles.divider}></div>
+          <Link
             className="button button--secondary button--lg "
             to="https://github.com/UML-Association-For-Computing-Machinery">
             Github

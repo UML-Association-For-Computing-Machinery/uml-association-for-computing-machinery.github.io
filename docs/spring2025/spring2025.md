@@ -31,10 +31,10 @@ Legend
 
 | Date        | Week and Topic                | Speaker      | Description  |
 |-------------|-------------------------------|--------------|--------------|
-| 🟡 January 29th   | [Week 1: Welcome Back!](https://github.com/UML-Association-For-Computing-Machinery/Spring2025/blob/main/README.md)   | Club Leaders          | **Presentation Section:** <br /> - TBD |
-|🔴 February 12th   | [Week 2: TBD](https://github.com/UML-Association-For-Computing-Machinery/Spring2025/blob/main/README.md)   | TBD          | **Presentation Section:** <br/> - TBD <br /> **Hands-on Section:** - TBD  |
-|🔴 February 26th   | [Week 3: TBD](https://github.com/UML-Association-For-Computing-Machinery/Spring2025/blob/main/README.md)   | TBD         | **Presentation Section:** <br/> - TBD |
-|🏝️ March 12th    | Spring Break: No Meeting   | TBD          | **Presentation Section:** <br/> - TBD |
+| 🔵 January 29th   | [Week 1: Welcome Back!](https://github.com/UML-Association-For-Computing-Machinery/Spring2025/blob/main/README.md)   | Club Leaders          | **Presentation Section:** <br /> -  Discussing our club's mission <br /> -  Playing Kahoot for prizes|
+|🟢 February 12th   | [Week 2: Creating a Successful Startup](https://github.com/UML-Association-For-Computing-Machinery/Spring2025/blob/main/README.md)   | [Ibrahim Haroon](https://www.linkedin.com/in/ibrahimharoon/)| **Presentation Section:** <br/> - Presentation by Ibrahim Haroon on startups <br /> **Hands-on Section:** - Form groups to develop and pitch a startup idea. <br />  |
+|🟢 February 26th   | [Week 3: ACM Project Showcase](https://github.com/UML-Association-For-Computing-Machinery/Spring2025/blob/main/README.md)   | TBD         | **Presentation Section:** <br/> - TBD |
+|🏝️ March 12th    | Spring Break: No Meeting   | TBD          | **Presentation Section:** <br/> - N/A |
 |🔴 March 26th   | [Week 4: TBD](https://github.com/UML-Association-For-Computing-Machinery/Spring2025/blob/main/README.md)   | TBD          | **Presentation Section:** <br/> - TBD |
 |🔴 April 9th   | [Week 5: TBD](https://github.com/UML-Association-For-Computing-Machinery/Spring2025/blob/main/README.md)   | TBD        |**Presentation Section:** <br/> - TBD
 |🔴 April 23rd   | [Week 6: Elections](https://github.com/UML-Association-For-Computing-Machinery/Spring2025/blob/main/README.md)   | Club Leaders         | **Presentation Section:** Candidates for each position will give speeches <br /> **Hands-on Section:** Voting will take place on Engage.

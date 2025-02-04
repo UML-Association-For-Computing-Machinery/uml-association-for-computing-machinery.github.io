@@ -8,4 +8,6 @@ slug: /spring2025/week1
 [![Discord](https://img.shields.io/discord/890983857938116729?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/xVyR6J9ZMF)
 [![Email](https://img.shields.io/badge/Email-acm%40outlook.com-red.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:acm@outlook.com)
 
-# Week 1
+# Week 1: Welcome Back!
+
+<iframe src="/presentations/spring2025/ACM_Meeting_01_29_25.pdf" width="100%" height="600px"></iframe>
