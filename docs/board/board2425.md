@@ -11,5 +11,5 @@ slug: /board/board2425
 - Treasurer: Roshan Rajesh
 - Secretary: Charlie Norton
 - Graphic Designer: Amitha Thalanki
-- Director of PartnershipsL Melissa Ing
+- Director of Partnerships: Melissa Ing
 - Director of Public Relations: Ariana Brown
