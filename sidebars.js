@@ -79,7 +79,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Board',
-      items: ['board/board2425'],
+      items: ['board/board2425', 'board/board2324']
     },
   ]
 };
