@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 title: E-Board 2024-25
 slug: /board/board2425
 ---
