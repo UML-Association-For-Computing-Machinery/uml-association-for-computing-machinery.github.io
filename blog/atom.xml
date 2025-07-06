@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://uml-association-for-computing-machinery.github.io/blog"/>
     <subtitle>Association for Computing Machinery at UMass Lowell Blog</subtitle>
-    <icon>https://uml-association-for-computing-machinery.github.io/img/favicon.ico</icon>
+    <icon>https://uml-association-for-computing-machinery.github.io/img/umlacmlogo.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome to ACM at UML!]]></title>
         <id>https://uml-association-for-computing-machinery.github.io/blog/first-blog-post</id>
