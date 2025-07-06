@@ -3,7 +3,11 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
-
+import Link from '@docusaurus/Link';
+import cards_data from '@site/static/jsonfolders/feature.json';
+import { Button, Grid2 } from '@mui/material';
+import Grid from '@mui/material/Grid';
+import Stack from '@mui/system/Stack';
 /*
 const FeatureList = [
   {
@@ -66,71 +70,69 @@ export default function HomepageFeatures() {
   );
 }
 */
-
+/* 
 const FeatureList = [
   {
     title: 'A local branch of the national ACM',
     // Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        We focus on bringing interesting speakers to campus, holding fun competitions and educational events.
-      </>
-    ),
+    description: 
+        "We focus on bringing interesting speakers to campus, holding fun competitions and educational events.",
+    buttonTitle: "About ACM",
+    link: 'https://www.acm.org/about-acm/about-the-acm-organization',
+    
+        
   },
   {
     title: 'Open to all UMass Lowell students, faculty, and staff',
     // Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Want to learn more about new topics in Computer Science? Join us at our weekly meetings to learn, build, and connect.
-      </>
-    ),
+    description:
+        "Want to learn more about new topics in Computer Science? Join us at our weekly meetings to learn, build, and connect.",
+    buttonTitle: "CampusGroups",
+    link: 'https://www.acm.org/about-acm/about-the-acm-organization'
   },
   {
-    title: 'Optional Membership',
+    title: 'Membership',
     // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        While optional, membership to the national ACM includes access to ACM's Digital Library, ACM conferences, and 
-        ACM's Special Interest Groups. 
-        <div class='link'>
-        <a href='https://www.acm.org/membership'>Learn more here</a> 
-        </div>
-        
-      </>
-    ),
-  },
-];
+    description:  
+    "While optional, membership to the national ACM includes access to ACM's Digital Library, ACM conferences, and ACM's Special Interest Groups",
+    buttonTitle: "Membership Options",
+    link: 'https://www.acm.org/membership',
+  }
+]; */
 
-function Feature({title, description}) {
+function Feature({title, description, buttonTitle, buttonLink}) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
+    <div className={"card papercard"}>
+      <div className="card__header text--center">
+        <h3>{title}</h3>
       </div>
-      
-      <div className="text--center padding-horiz--md">
-        <Card sx={{minWidth: 150, minHeight: 150,backgroundColor: 'lightgrey'}}>
-          <CardContent>
-            <Heading as="h3">{title}</Heading>
-            <p>{description}</p>
-          </CardContent>
-        </Card>
-        
+      <div className={"card__body text--center"}>
+        <p>{description}</p>
+      </div>
+      <div className={"card__footer"}>
+        <Link className="button button--secondary button--block" to={buttonLink}>{buttonTitle}</Link>
       </div>
     </div>
   );
 }
 
+
+ 
 export default function HomepageFeatures() {
-  return (
+   
+   return (
     <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
+      <Grid2 container spacing={4} wrap="nowrap" sx={{minWidth: '500px'}}>
+        {cards_data.map((cards) => (
+            <Feature title ={cards.title} description={cards.description} buttonTitle={cards.buttonTitle} buttonLink={cards.link} />
           ))}
-        </div>
-      </div>
+      </Grid2>
+        
+
+            
+            
+
+        
     </section>
-  );
+  ); 
 }

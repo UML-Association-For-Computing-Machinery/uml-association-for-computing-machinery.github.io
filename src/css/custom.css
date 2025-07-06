@@ -39,6 +39,15 @@
 }
 
 .engage-button{
-  background-color: rgb(71, 223, 89);
+  background-color: rgb(71, 190, 223);
   color: white
+}
+
+.infocard {
+  min-height: 350px;
+  min-width: 200px;
+}
+
+.infocard:hover {
+  transform:scale(1.02);
 }

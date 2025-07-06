@@ -1,0 +1,44 @@
+[
+  {
+    "title": "A local branch of the national ACM",
+    "description": 
+        "We focus on bringing interesting speakers to campus, holding fun competitions and educational events.",
+    "buttonTitle": "About ACM",
+    "link": "https://www.acm.org/about-acm/about-the-acm-organization"
+    
+        
+  },
+  {
+    "title": "Open to all UMass Lowell students, faculty, and staff",
+    "description": "Want to learn more about Computer Science? Join us at our biweekly meetings to learn, build, and connect.",
+    "buttonTitle": "CampusGroups",
+    "link": "https://uml.campusgroups.com/home_login"
+  },
+  {
+    "title": "Meetings",
+    "description": "Learn more about our CS community through guest lectures, workshops, and networking events",
+    "buttonTitle": "View Meeting Info",
+    "link": "/docs/meetings/welcomeMeetings"
+  },
+  {
+    "title": "Membership",
+    "description":  
+    "Membership to the national ACM includes access to ACM's Digital Library and exclusive career opportunities.",
+    "buttonTitle": "Membership Options",
+    "link": "https://www.acm.org/membership"
+  },
+  {
+    "title": "Special Interest Groups",
+    "description":  
+    "Special Interest Groups share expertise and research in a wide variety of computing disciplines.",
+    "buttonTitle": "Explore SIGs",
+    "link": "https://www.acm.org/special-interest-groups"
+  },
+  
+  {
+    "title": "Publications",
+    "description": "ACM publishes new ideas and work each year through its magazines, journals, books, and conferences",
+    "buttonTitle": "View Publications",
+    "link": "https://www.acm.org/publications"
+  }
+]
