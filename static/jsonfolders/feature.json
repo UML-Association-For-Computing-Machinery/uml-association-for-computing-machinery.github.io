@@ -1,6 +1,6 @@
 [
   {
-    "title": "A local branch of the national ACM",
+    "title": "About US",
     "description": 
         "We focus on bringing interesting speakers to campus, holding fun competitions and educational events.",
     "buttonTitle": "About ACM",
@@ -17,7 +17,7 @@
   {
     "title": "Meetings",
     "description": "Learn more about our CS community through guest lectures, workshops, and networking events",
-    "buttonTitle": "View Meeting Info",
+    "buttonTitle": "Meeting Schedule",
     "link": "/docs/meetings/welcomeMeetings"
   },
   {

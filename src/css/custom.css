@@ -5,6 +5,7 @@
  */
 
 /* You can override the default Infima variables here. */
+
 :root {
   --ifm-color-primary: #91b0f3;
   --ifm-color-primary-dark: #29784c;
@@ -45,7 +46,6 @@
 
 .infocard {
   min-height: 350px;
-  min-width: 200px;
 }
 
 .infocard:hover {
