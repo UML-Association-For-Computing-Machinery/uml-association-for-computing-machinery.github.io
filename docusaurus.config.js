@@ -121,8 +121,8 @@ const config = {
                 href: 'https://www.linkedin.com/company/umass-lowell-acm/',
               },
               {
-                label: 'Engage',
-                href: 'https://umasslowellclubs.campuslabs.com/engage/organization/acm',
+                label: 'CampusLabs',
+                href: 'https://uml.campusgroups.com/feeds?type=club&type_id=35680&tab=about',
               },
               {
                 label: 'GitHub',
@@ -141,8 +141,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'UML Engage',
-                href: 'https://umasslowellclubs.campuslabs.com/engage/organization/acm',
+                label: 'CampusGroups',
+                href: 'https://uml.campusgroups.com/feeds?type=club&type_id=35680&tab=about',
               },
               {
                 label: 'Discord',

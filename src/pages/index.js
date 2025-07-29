@@ -6,6 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import React from 'react';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
+import ProfileGrid from '../components/HomepageFeatures/ProfileGrid';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -26,14 +27,8 @@ function HomepageHeader() {
           <div class={styles.divider}></div>
           <Link
             className="engage-button button button--secondary button--lg"
-            to="https://uml.campusgroups.com/home_login">
+            to="https://uml.campusgroups.com/feeds?type=club&type_id=35680&tab=about">
             CampusGroups
-          </Link>
-          <div class={styles.divider}></div>
-          <Link
-            className="button button--secondary button--lg "
-            to="https://github.com/UML-Association-For-Computing-Machinery">
-            Github
           </Link>
         </div>
         
@@ -52,6 +47,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <ProfileGrid/>
       </main>
     </Layout>
   );

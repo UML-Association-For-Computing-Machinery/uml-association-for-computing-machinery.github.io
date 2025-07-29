@@ -1,13 +1,12 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
-import Card from '@mui/material/Card';
-import CardContent from '@mui/material/CardContent';
 import Link from '@docusaurus/Link';
 import cards_data from '@site/static/jsonfolders/feature.json';
 import Box from '@mui/material/Box';
 import Grid from '@mui/material/Grid';
 import React from 'react';
+
 
 
 function Feature({title, description, buttonTitle, buttonLink}) {
@@ -31,8 +30,7 @@ function Feature({title, description, buttonTitle, buttonLink}) {
 export default function HomepageFeatures() {
    
    return (
-    <section className={styles.features}>
-       <Box wrap="nowrap" sx={{ display: 'block', overflowX: 'auto', py:0, pl: 4, 
+       <Box wrap="nowrap" sx={{ display: 'block', overflowX: 'auto', py:2, pl: 4, 
             '&::-webkit-scrollbar': {
                 display: 'none',
             },
@@ -52,16 +50,8 @@ export default function HomepageFeatures() {
           })}
           </Grid>
         </Box>
-        
- 
-        
 
-        
 
-            
-            
-
-        
-    </section>
+    
   ); 
 }

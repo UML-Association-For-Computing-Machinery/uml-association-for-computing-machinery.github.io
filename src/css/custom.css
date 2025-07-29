@@ -45,9 +45,45 @@
 }
 
 .infocard {
-  min-height: 350px;
+  min-height: 375px;
+  border: 1px solid grey;
 }
 
 .infocard:hover {
   transform:scale(1.02);
+}
+
+.boardcard {
+  border: 1px solid gray;
+  /* box-shadow: 5px 5px 5px hsla(0, 0%, 80%); */
+  margin: 10px;
+  width: 250px;
+  display: inline-flex;
+ 
+}
+
+.team-container {
+  justify-items: center;
+  padding: 50px;
+
+}
+
+.team-title {
+  font-size: 40px;
+
+}
+
+.boardcard:hover {
+  transform:scale(1.02);
+}
+
+.team-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.board_position {
+  font-size: 18px;
+  margin-top: -10px;
 }
