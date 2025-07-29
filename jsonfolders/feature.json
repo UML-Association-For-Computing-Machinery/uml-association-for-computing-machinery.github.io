@@ -1,6 +1,6 @@
 [
   {
-    "title": "About US",
+    "title": "About Us",
     "description": 
         "We focus on bringing interesting speakers to campus, holding fun competitions and educational events.",
     "buttonTitle": "About ACM",
@@ -9,8 +9,8 @@
         
   },
   {
-    "title": "Open to all UMass Lowell students, faculty, and staff",
-    "description": "Want to learn more about Computer Science? Join us at our biweekly meetings to learn, build, and connect.",
+    "title": "Join Us",
+    "description": "Want to learn more about Computer Science? Join us at our biweekly meetings to learn, connect, and seek valuable career skills.",
     "buttonTitle": "CampusGroups",
     "link": "https://uml.campusgroups.com/home_login"
   },
