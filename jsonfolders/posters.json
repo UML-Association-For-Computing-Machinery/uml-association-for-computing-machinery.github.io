@@ -1,0 +1,62 @@
+[
+    {
+       "id": 1,
+       "image": "acm_posters/acm_dykstra.png",
+       "alt": "dykstra"
+    },
+    {
+       "id": 2,
+       "image": "acm_posters/acm_gamedev.png",
+       "alt": "gamedev"
+    },
+    {
+       "id": 3,
+       "image": "acm_posters/acm_git_workflow.png",
+       "alt": "gamedev"
+    },
+    {
+       "id": 4,
+       "image": "acm_posters/acm_intro_to_graph.png",
+       "alt": "graph_design"
+    },
+    {
+       "id": 5,
+       "image": "acm_posters/acm_masson.png",
+       "alt": "masson"
+    },
+    {
+       "id": 6,
+       "image": "acm_posters/acm_python.png",
+       "alt": "python"
+    },
+    {
+       "id": 7,
+       "image": "acm_posters/acm_resume_review.png",
+       "alt": "resume_review"
+    },
+    {
+       "id": 8,
+       "image": "acm_posters/acm_grad_school.png",
+       "alt": "grad_school"
+    },
+    {
+       "id": 9,
+       "image": "acm_posters/acm_latex.png",
+       "alt": "latex"
+    },
+    {
+       "id": 10,
+       "image": "acm_posters/acm_welcome.png",
+       "alt": "welcome"
+    },
+    {
+       "id": 11,
+       "image": "acm_posters/acm_agile.png",
+       "alt": "agile"
+    },
+    {
+       "id": 12,
+       "image": "acm_posters/acm_sql.png",
+       "alt": "sql"
+    }
+]
