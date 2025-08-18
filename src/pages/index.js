@@ -7,7 +7,8 @@ import React from 'react';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 import ProfileGrid from '../components/HomepageFeatures/ProfileGrid';
-
+import MyCarousel from '../components/HomepageFeatures/MyCarousel';
+import CompCarousel from '../components/HomepageFeatures/CompCarousel';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -20,13 +21,13 @@ function HomepageHeader() {
         <p className={styles.site_title}>{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="discord-button button button--secondary button--lg"
+            className="discord-button button button--primary button--lg"
             to="https://discord.gg/xVyR6J9ZMF">
             Discord
           </Link>
           <div class={styles.divider}></div>
           <Link
-            className="engage-button button button--secondary button--lg"
+            className="engage-button button button--primary button--lg"
             to="https://uml.campusgroups.com/feeds?type=club&type_id=35680&tab=about">
             CampusGroups
           </Link>
@@ -48,6 +49,8 @@ export default function Home() {
       <main>
         <HomepageFeatures />
         <ProfileGrid/>
+        <MyCarousel/>
+        <CompCarousel/>
       </main>
     </Layout>
   );

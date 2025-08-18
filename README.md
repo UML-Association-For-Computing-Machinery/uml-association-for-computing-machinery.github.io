@@ -4,8 +4,9 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ### Installation
 
+After cloning the repo, cd to the repo and run the following command
 ```
-$ npm
+$ npm install
 ```
 
 ### Local Development
@@ -44,9 +45,8 @@ If neither work, use:
 ```
 GIT_USER=<Your GitHub username> USE_SSH=true npm run deploy
 ```
-### Installing Libraries
-To install MUI library, run the command:
 
-```
-npm install @mui/material @emotion/react @emotion/styled
-```
+### Libraries Used
+- Infima (built into Docusaurus): https://infima.dev/docs/getting-started/introduction 
+- Material UI: https://mui.com/material-ui/getting-started/
+- React Slick: https://react-slick.neostack.com/docs/get-started

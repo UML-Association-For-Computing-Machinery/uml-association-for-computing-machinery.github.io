@@ -7,7 +7,7 @@ slug: /board/board2526
 # E-Board 2025-26
 
 - President: Charlie Norton
-- VP: Melissa Ing
+- Vice President: Melissa Ing
 - Treasurer: Roshan Rajesh
 - Secretary: Matias Stringa
 - Graphic Designer: Christina Tran

@@ -7,7 +7,7 @@ slug: /board/board2324
 # E-Board 2023-24
 
 - President: Ryhan Mortuza
-- VP: Khadeer Choudhury
+- Vice President: Khadeer Choudhury
 - Treasurer: Matt Svenson
 - Secretary: Adriana Medina
 - Graphic Designer: Victoria Tran

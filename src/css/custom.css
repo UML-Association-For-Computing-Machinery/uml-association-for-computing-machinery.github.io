@@ -7,7 +7,7 @@
 /* You can override the default Infima variables here. */
 
 :root {
-  --ifm-color-primary: #91b0f3;
+  --ifm-color-primary: #70b3f6;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -30,9 +30,9 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/* Button CSS */
 .discord-button {
   background-color: rgb(71, 99, 223);
-  color: white;
 }
 
 .link {
@@ -40,10 +40,11 @@
 }
 
 .engage-button{
-  background-color: rgb(71, 190, 223);
-  color: white
+  background-color: rgb(71, 132, 223);
+
 }
 
+/* CSS for sliding info cards*/
 .infocard {
   min-height: 375px;
   border: 1px solid grey;
@@ -53,9 +54,9 @@
   transform:scale(1.02);
 }
 
+/* CSS for Eboard section of the page*/
 .boardcard {
   border: 1px solid gray;
-  /* box-shadow: 5px 5px 5px hsla(0, 0%, 80%); */
   margin: 10px;
   width: 250px;
   display: inline-flex;
@@ -86,4 +87,49 @@
 .board_position {
   font-size: 18px;
   margin-top: -10px;
+}
+
+/* CSS for meeting carousel */
+/* .items {
+    font-size: 40px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    padding: 100px 0;
+    margin: 0px auto;
+    font-family: sans-serif;
+    margin: 0 50px;
+} */
+
+.slide-container {
+  align-items: center;
+  padding: 130px;
+}
+
+.slide-img {
+  overflow: hidden;
+  padding: 10px;
+  border-radius: 20px;
+  margin: 10px 0;
+  
+}
+
+.slide-img:hover {
+  transform:scale(1.02);
+  border: 1px solid grey;
+  
+}
+
+/* CSS for competitions carousel*/
+.meetings-title {
+  font-size: 40px;
+  text-align: center;
+  margin-top: -8rem;
+}
+
+.comp-title {
+  font-size: 40px;
+  text-align: center;
+  margin-top: -12rem;
 }

@@ -1,0 +1,32 @@
+[
+    {
+       "id": 1,
+       "image": "acm_hackathons/acm_code_golf.png",
+       "alt": "code golf"
+    },
+    {
+       "id": 2,
+       "image": "acm_hackathons/acm_hackathon_planning.png",
+       "alt": "hack_planning"
+    },
+    {
+       "id": 3,
+       "image": "acm_hackathons/acm_obfuscation.png",
+       "alt": "obfuscation"
+    },
+    {
+       "id": 4,
+       "image": "acm_hackathons/acm_securehack.png",
+       "alt": "securehack"
+    },
+    {
+       "id": 5,
+       "image": "acm_hackathons/acm_spring_comp.png",
+       "alt": "spring competitions"
+    },
+    {
+       "id": 6,
+       "image": "acm_hackathons/acm_valentines.png",
+       "alt": "valentines"
+    }
+]

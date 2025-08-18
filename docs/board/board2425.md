@@ -7,7 +7,7 @@ slug: /board/board2425
 # E-Board 2024-25
 
 - President: Rohan Mallu
-- VP: Alvin Yu
+- Vice President: Alvin Yu
 - Treasurer: Roshan Rajesh
 - Secretary: Charlie Norton
 - Graphic Designer: Amitha Thalanki

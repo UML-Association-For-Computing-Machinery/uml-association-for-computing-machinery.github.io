@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Association for Computing Machinery at UMass Lowell',
-  tagline: 'Exploring Computer Science at UMass Lowell',
+  title: 'ACM at UMass Lowell',
+  tagline: 'Connecting Students and Technology',
   favicon: 'img/umlacmlogo.png',
 
   // Set the production url of your site here
