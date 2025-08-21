@@ -17,3 +17,14 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+acm:
+  label: ACM
+  permalink: /acm
+  description: ACM tag description
+
+eboard:
+  label: Eboard
+  permalink: /eboard
+  description: Eboard tag description
+
