@@ -4,10 +4,40 @@
         <title>ACM at UMass Lowell Blog</title>
         <link>https://uml-association-for-computing-machinery.github.io/blog</link>
         <description>ACM at UMass Lowell Blog</description>
-        <lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Aug 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Thank You]]></title>
+            <link>https://uml-association-for-computing-machinery.github.io/blog/farewell-message</link>
+            <guid>https://uml-association-for-computing-machinery.github.io/blog/farewell-message</guid>
+            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hi folks! As the summer ends and the new semester begins, I wanted to share a couple of final words.]]></description>
+            <content:encoded><![CDATA[<p>Hi folks! As the summer ends and the new semester begins, I wanted to share a couple of final words.</p>
+<p>I want to thank everyone who supported us last year. From the eboard members who dedicated their time to crafting our meetings to the students who showed up, I'm glad that we were able to get this club off the ground and running again.</p>
+<p>When I took over ACM at UMass Lowell from the previous eboard, it was in shambles. No meetings were held, and the club was de-registered by the university. I spent the following months finding new eboard members and going through the process of re-registering the club.</p>
+<p>Our first semester had its ups and downs. Meetings ranged from full attendance to none at all. Some of our meeting topics confused our members, such as Natural Language Processing. But we pushed through and we created meetings that were fun and informative.</p>
+<p>By our second semester, things really turned around We had speakers that students could relate to, from entrepreneurs to game developers in our CS community. We held our largest meeting of the year, a resume review session where students learned how to craft a resume for tech careers. My officers and I were thrilled to learn that some students were able to land interviews after participating in our resume review meeting.</p>
+<p>Now that the year (and the summer) has come to an end, I am pleased to announce your new ACM eboard for the 2025-26 academic year:</p>
+<ul>
+<li>President: Charlie Norton​</li>
+<li>Vice President: Melissa Ing​</li>
+<li>Secretary: Matias Stringa​</li>
+<li>Treasurer: Roshan Rajesh​</li>
+<li>Graphic Designer: Christina Tran​</li>
+<li>Director of Partnerships: Aryaman Shah ​</li>
+<li>Director of Public Relations: Nicolas Busse</li>
+</ul>
+<p>I wish Charlie and the new eboard nothing but the best as they take ACM to the next level.</p>
+<p>Thank you for letting serve as your ACM president this year.  I'm glad I could make a difference, big or small, for all of you. I couldn't ask for anything more.</p>
+<p>Signing off,
+Rohan Mallu ❤️</p>
+<p><img decoding="async" loading="lazy" alt="ACM Spring 2025 Welcome Meeting" src="https://uml-association-for-computing-machinery.github.io/assets/images/acm-final-day-78981248d1a9774e76e0ec34e145f556.jpg" width="1920" height="2560" class="img_ev3q"></p>]]></content:encoded>
+            <author>rohan_mallu@student.uml.edu (Rohan Mallu)</author>
+            <category>ACM</category>
+            <category>EBoard</category>
+        </item>
         <item>
             <title><![CDATA[Welcome to ACM at UML!]]></title>
             <link>https://uml-association-for-computing-machinery.github.io/blog/first-blog-post</link>
