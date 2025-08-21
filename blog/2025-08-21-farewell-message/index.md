@@ -2,7 +2,7 @@
 slug: farewell-message
 title: Thank You
 authors: [rmallu]
-tags: [ACM, EBoard]
+tags: [acm, eboard]
 ---
 
 Hi folks! As the summer ends and the new semester begins, I wanted to share a couple of final words.
