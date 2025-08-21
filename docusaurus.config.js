@@ -121,7 +121,7 @@ const config = {
                 href: 'https://www.linkedin.com/company/umass-lowell-acm/',
               },
               {
-                label: 'CampusLabs',
+                label: 'CampusGroups',
                 href: 'https://uml.campusgroups.com/feeds?type=club&type_id=35680&tab=about',
               },
               {

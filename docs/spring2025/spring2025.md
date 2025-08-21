@@ -76,7 +76,7 @@ Feel free to reach out to our club leaders for more information. We look forward
 ### Contact
 
 #### Q: How can I contact the club leaders?
-**A**: You can reach out to us via our [Discord server](https://discord.gg/rN7YZQuKTq) or by sending an email to [acm@outlook.com](mailto:acm@outlook.com).
+**A**: You can reach out to us via our [Discord server](https://discord.gg/rN7YZQuKTq) or by sending an email to [acm@outlook.com](mailto:umlacm@outlook.com).
 
 ---
 

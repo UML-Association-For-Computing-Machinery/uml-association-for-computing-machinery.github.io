@@ -32,9 +32,13 @@ const sidebars = {
       items: ['spring2025/week1', 'spring2025/week2', 'spring2025/week3', 'spring2025/week4', 'spring2025/week5', 'spring2025/week6'],
     },
     {
-      type: 'doc',
-      id: 'meetings/fall2024',
+      type: 'category',
       label: '🍂 Fall 2024',
+      link: {
+        type: 'doc',
+        id: 'fall2024/fall2024'
+      },
+      items: ['fall2024/week1', 'fall2024/week2', 'fall2024/week3', 'fall2024/week4', 'fall2024/week5', 'fall2024/week6'],
     },
   ],
 
