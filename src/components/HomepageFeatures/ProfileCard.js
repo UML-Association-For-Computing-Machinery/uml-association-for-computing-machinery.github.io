@@ -25,7 +25,8 @@ export default function ProfileCard({image, officer, position, linkedin}) {
                             <img className="team-image" src={image} alt="acm officer"></img>
                         </div>
                         <div className="card__header text--center">
-                            <h2>{officer}</h2>
+                            <h2>TBD</h2>
+                            {/*<h2>{officer}</h2>*/}
                         </div>
                         <div className="card__body text--center"> 
                             <p className="board_position">{position}</p>
